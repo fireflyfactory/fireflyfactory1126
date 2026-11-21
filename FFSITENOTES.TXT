@@ -1,0 +1,35 @@
+FFV5_10/31/26: 
+
+Created folder, set up HTML filetree and single CSS file. I think I'm going to set up each "item" as its own file, contained in folders relative to each "genre."
+---------------------
+
+FFSITENOTES.TXT
+
+index.html - indexstyle.css 
+prose.html - indexstyle.css
+poems.html - indexstyle.css
+submit.html - indexstyle.css
+
+ALL INDIVIDUAL CONTENT HTMLS USE contentstyles.css AS THEIR STYLESHEET!
+indexstyle.css
+----------------------
+
+FFV5_11/01/26:
+Site now links to static HTML of items, not sure how I feel about it.
+
+FFV5_11/14/26:
+Using Untitled_31.html, all content has a proper stylesheet!
+Still need to customize the stylesheet - make header smaller -
+and need to add backlinks and fowardlinks to next content. 
+And update On the Nuclear Man.
+
+I would also like to add the following works:
+
+POEMS:
+    To Whom it May Concern, or, Second Draft of a Suicide Note
+PROSE:
+    AUTOVIVISECTTION
+    January 7-8 
+   
+VISUALS
+MUSIC - need those noodles in G, some piano stuff
